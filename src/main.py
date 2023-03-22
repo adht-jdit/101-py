@@ -1,4 +1,4 @@
 number = 1
 while True:
-    print(number)
+    print(number, end=' ')
     number = number + 1
